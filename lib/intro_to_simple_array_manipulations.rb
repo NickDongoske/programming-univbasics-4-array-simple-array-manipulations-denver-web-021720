@@ -1,3 +1,3 @@
-# using_push(Array, element)
+# using_push(array, element)
 color = "violet"
-colors_in_the_rainbow.push(color)
+array.push(color)
