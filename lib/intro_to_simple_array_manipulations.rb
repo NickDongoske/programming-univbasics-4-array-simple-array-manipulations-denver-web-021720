@@ -3,5 +3,5 @@ color = "violet"
 array.push(color)
 end
 
-def using_unshift()
+def using_unshift(array, e)
 end
