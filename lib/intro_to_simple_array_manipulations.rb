@@ -1,3 +1,3 @@
-# using_push(array, element)
+# using_push(array, string)
 color = "violet"
 array.push(color)
